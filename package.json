@@ -1,5 +1,5 @@
 {
-  "name": "node-edit-cli",
+  "name": "mass-edit-cli",
   "version": "1.0.0",
   "description": "",
   "main": "bin/index.js",
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "node-edit": "./bin/index.js"
+    "mass-edit": "./bin/index.js"
   },
   "dependencies": {
     "csv-parser": "^3.0.0",
